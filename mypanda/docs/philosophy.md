@@ -11,7 +11,7 @@ classes, methods and functions that are annotated within the pandas-stubs projec
 that are incorrect with respect to the pandas source, but that have no effect on type
 checking user code that calls the public API.
 
-## Use of Generic Types ######################################### DEBAJYOTI ##################################################
+## Use of Generic Types ######################################### DEBAJYOTI DATTA GUPTA ##################################################
 
 There are other differences that are extensions of the pandas API to assist in type
 checking.  Two key examples are that `Series` and `Interval` are typed as generic types.
